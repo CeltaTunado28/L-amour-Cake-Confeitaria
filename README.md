@@ -1,2 +1,3 @@
 # L-amour-Cake-Confeitaria
-Projeto universitario de front-end 
+
+https://lamourcake.netlify.app/
